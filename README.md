@@ -1,5 +1,5 @@
-# DAHTeleport
-## Plugin for craftbukkit
+## DAHTeleport
+### Plugin for craftbukkit
 
 Created: 2014/08/05  
 Created by: Dylan Holloway  
