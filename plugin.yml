@@ -1,0 +1,10 @@
+main:  Main
+name:  DAHTeleport
+author:  Dylan Holloway
+version:  1.0.0
+website: www.dlanholloway.tk
+commands:  
+  tp:  
+    description:  Teleport you to a player
+  here:
+    description:  Teleport a player to you
